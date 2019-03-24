@@ -1,0 +1,65 @@
+body
+{
+	background-color: white;
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+#mainBlock
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: auto;
+	text-align: center;
+}
+
+#LeftInput {
+	display: block;
+	padding-right: 0px;
+}
+#RightInput {
+	font-size: 16px;
+	display: block;
+	padding-left: 0px;
+}	
+
+#objPomar
+{
+	color: orange;
+}
+
+#objNieb
+{
+	color: blue;
+}
+
+#objZiel
+{
+	color: lime;
+}
+
+#objCzer
+{
+	color: red;
+}
+
+#B1
+{
+	display: block;
+	border: 2px solid black;
+	margin: 0 auto;
+	padding: 10px 20px;
+	font-family: arial;
+	background-color:  #ffff99;
+}
+
+#B1:hover
+{
+	display: block;
+	border: 2px solid yellow;
+	margin: 0 auto;
+	padding: 10px 20px;
+	font-family: arial;
+	background-color: #ffb84d;
+}
